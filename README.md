@@ -13,4 +13,4 @@ Orate is an instant messaging application that allows users to talk to each othe
 1. Create an account using Google Account.
 2. Chat with other users.
 3. Online presence of the other user.
-4. Read recipents - sent, delivered and read
+4. Read recipents - sent, delivered and read.
